@@ -93,7 +93,7 @@ segment_command_64 包含信息：段名、文件偏移、文件大小、虚拟�
 
 
 
-**LC_SEGMENT_64(__TEXT)**、**LC_SEGMENT_64(__DATA) **包含了多个section
+**LC_SEGMENT_64(__TEXT)**、**LC_SEGMENT_64(__DATA)**包含了多个section
 
 ```
 struct section_64 { /* for 64-bit architectures */
